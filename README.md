@@ -3,8 +3,8 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) on the Tit
 
 ## 📁 Repository Contents
 - `Titanic_EDA.ipynb` - Main Jupyter notebook with all analysis, visualizations, and observations.
-- `raw_data` - Folder containing 3 raw datasets:
-- `preprocessed_data` - Folder containing 2 preprocessed datasets
+- `Raw Data` - Folder containing 3 raw datasets:
+- `Preprocessed Data` - Folder containing 2 preprocessed datasets
 - `README.md` - This project documentation.
 
 ## 🎯 Objective
