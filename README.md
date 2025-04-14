@@ -56,3 +56,6 @@ pip install pandas numpy matplotlib seaborn
 ```
 jupyter notebook Titanic_EDA.ipynb
 ```
+
+## 📬 Contact
+For feedback or questions, feel free to reach out.
